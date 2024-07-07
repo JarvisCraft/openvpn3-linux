@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 #  OpenVPN 3 Linux client -- Next generation OpenVPN client
 #
